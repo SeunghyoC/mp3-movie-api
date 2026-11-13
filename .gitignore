@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+
+# Python caches & virtual envs
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+
+# IDE settings & Secrets
+.vscode/
+.env
+
+# SQLite database
+data/
